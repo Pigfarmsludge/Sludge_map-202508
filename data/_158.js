@@ -1,1 +1,0 @@
-var json__158 = {"type":"FeatureCollection","name":"_158","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"xy_coordinate_resolution":1e-13,"features":[{"type":"Feature","properties":{"名稱":"六輕工業區","經度":120.1917,"緯度":23.7917},"geometry":{"type":"Point","coordinates":[120.1917,23.7917]}}]}
